@@ -1,0 +1,35 @@
+
+
+.red {
+    background-color: red;
+}
+
+.pageBlock button {
+    border-radius: 5px;
+    margin-right: 15px;
+    background-color: yellow;
+    display: inline-block;
+}
+
+.pageBlock h1 {
+    border-bottom: 3px solid black;
+
+}
+
+
+.pageBlock p {
+    margin-bottom: 45px;
+    display: inline-block;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
